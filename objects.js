@@ -21,7 +21,7 @@ const person = {
   }
   
   // accessing values using .
-  console.log(person.firstName)
+  -
   console.log(person.lastName)
   console.log(person.age)
   console.log(person.location) // undefined
